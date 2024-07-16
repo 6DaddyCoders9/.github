@@ -2,7 +2,7 @@
 
 ## Welcome to the 6DaddyCoders9 Realm! 🎉
 
-**Where coding meets meme culture.** We're a duo of Aryans on a mission to code, meme, and conquer the tech world.
+**Where coding meets aryan culture.** We're a duo of Aryans on a mission to code, meme, and conquer the tech world.
 
 ## The Dynamic Duo
 
