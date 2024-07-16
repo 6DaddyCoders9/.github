@@ -6,17 +6,19 @@
 
 ## The Dynamic Duo
 
-- **Aryan 1** aka "MrNoBody86" 🧙‍♂️
+- **Aryan 1** 👮‍♂️
   - Role: Chief Daddy Officer
   - Superpower: Can write code in his sleep. 🛌💻
 
-- **Aryan 2** aka "aryanc193" 🥷
+- **Aryan 2** 🧙‍♂️
   - Role: Daddy of Pixels
-  - Superpower: Can run code with his eyes closed. 🎨👀
+  - Superpower: Can bring imagination to life with his code. 🎨👀
 
 ## Our Mission
 
-To write code so clean, even our moms would be proud. And to create projects that make our friends go "Wow, you did this?" 👏
+  - To write code so clean, even our moms would be proud.
+  - To create projects that make our friends go "Wow, you did this?" 👏
+  - Show people how the job is done (jk we burst our heads creating this)
 
 ## Current Shenanigans
 
